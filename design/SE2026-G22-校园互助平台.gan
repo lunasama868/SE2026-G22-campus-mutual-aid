@@ -20,14 +20,14 @@
     <task id="5" name="T1.5 周例会与进度看板维护" color="#4f46e5" meeting="false" start="2026-09-21" duration="80" complete="0" priority="1" expand="true"/>
     <task id="6" name="T1.6 变更控制与文档归档" color="#4f46e5" meeting="false" start="2026-10-12" duration="65" complete="0" priority="1" expand="true"/>
     <task id="7" name="T1.7 项目计划汇报 PPT 制作与宣讲" color="#0ea5e9" meeting="false" start="2026-09-28" duration="5" complete="0" priority="1" expand="true"/>
-    <task id="8" name="T2.1 调研方案与问卷设计" color="#0ea5e9" meeting="false" start="2026-10-12" duration="5" complete="0" priority="1" expand="true"/>
-    <task id="9" name="T2.2 问卷发放与回收（≥200 份）" color="#0ea5e9" meeting="false" start="2026-10-12" duration="10" complete="0" priority="1" expand="true"/>
-    <task id="10" name="T2.3 竞品分析与群内供需观察" color="#0ea5e9" meeting="false" start="2026-10-12" duration="5" complete="0" priority="1" expand="true"/>
-    <task id="11" name="T2.4 调研数据整理与统计" color="#0ea5e9" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
-    <task id="12" name="T2.5 技术可行性验证（云开发原型）" color="#4f46e5" meeting="false" start="2026-10-12" duration="5" complete="0" priority="1" expand="true"/>
-    <task id="13" name="T2.6 成本与效益测算" color="#4f46e5" meeting="false" start="2026-10-12" duration="10" complete="0" priority="1" expand="true"/>
-    <task id="14" name="T2.7 合规与主体资质核查" color="#4f46e5" meeting="false" start="2026-10-12" duration="10" complete="0" priority="1" expand="true"/>
-    <task id="15" name="T2.8 可行性分析报告撰写（GB 8567）" color="#4f46e5" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="8" name="T2.1 ① 复查系统规模和目标" color="#4f46e5" meeting="false" start="2026-10-12" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="9" name="T2.2 ② 研究现有（正在使用）的系统" color="#0ea5e9" meeting="false" start="2026-10-12" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="10" name="T2.3 ③ 导出新系统的高层逻辑模型" color="#4f46e5" meeting="false" start="2026-10-12" duration="10" complete="0" priority="1" expand="true"/>
+    <task id="11" name="T2.4 ④ 进一步定义问题" color="#0ea5e9" meeting="false" start="2026-10-12" duration="10" complete="0" priority="1" expand="true"/>
+    <task id="12" name="T2.5 ⑤ 导出和评价供选择的解法" color="#0ea5e9" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="13" name="T2.6 ⑥ 推荐行动方针" color="#4f46e5" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="14" name="T2.7 ⑦ 草拟开发计划书" color="#4f46e5" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
+    <task id="15" name="T2.8 ⑧ 编写可行性研究报告并提交审查" color="#4f46e5" meeting="false" start="2026-10-19" duration="5" complete="0" priority="1" expand="true"/>
     <task id="16" name="T3.1 需求获取与建模（用例/数据流）" color="#0ea5e9" meeting="false" start="2026-10-26" duration="10" complete="0" priority="1" expand="true"/>
     <task id="17" name="T3.2 需求规格说明书 SRS" color="#4f46e5" meeting="false" start="2026-10-26" duration="10" complete="0" priority="1" expand="true"/>
     <task id="18" name="T3.3 需求评审 PPT 与答辩" color="#64748b" meeting="false" start="2026-10-26" duration="10" complete="0" priority="1" expand="true"/>
